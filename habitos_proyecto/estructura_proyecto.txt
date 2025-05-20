@@ -1,0 +1,109 @@
+Listado de rutas de carpetas
+El número de serie del volumen es 40EB-8C2D
+C:.
+¦   cosas.txt
+¦   db.sqlite3
+¦   estructura.txt
+¦   estructura_proyecto.txt
+¦   manage.py
+¦   
++---habitos
+¦   ¦   admin.py
+¦   ¦   apps.py
+¦   ¦   forms.py
+¦   ¦   middleware.py
+¦   ¦   models.py
+¦   ¦   tests.py
+¦   ¦   urls.py
+¦   ¦   views.py
+¦   ¦   __init__.py
+¦   ¦   
+¦   +---middleware
+¦   ¦   ¦   disable_cache.py
+¦   ¦   ¦   __init__.py
+¦   ¦   ¦   
+¦   ¦   +---__pycache__
+¦   ¦           disable_cache.cpython-310.pyc
+¦   ¦           __init__.cpython-310.pyc
+¦   ¦           
+¦   +---migrations
+¦   ¦   ¦   0001_initial.py
+¦   ¦   ¦   0002_icono_habito_icono_recordatorio_progreso.py
+¦   ¦   ¦   0003_alter_icono_nombre.py
+¦   ¦   ¦   0004_alter_icono_nombre.py
+¦   ¦   ¦   0005_recordatorio_frecuencia_alter_recordatorio_mensaje.py
+¦   ¦   ¦   __init__.py
+¦   ¦   ¦   
+¦   ¦   +---__pycache__
+¦   ¦           0001_initial.cpython-310.pyc
+¦   ¦           0002_icono_habito_icono_recordatorio_progreso.cpython-310.pyc
+¦   ¦           0003_alter_icono_nombre.cpython-310.pyc
+¦   ¦           0004_alter_icono_nombre.cpython-310.pyc
+¦   ¦           0005_recordatorio_frecuencia_alter_recordatorio_mensaje.cpython-310.pyc
+¦   ¦           __init__.cpython-310.pyc
+¦   ¦           
+¦   +---static
+¦   ¦   +---habitos
+¦   ¦       +---css
+¦   ¦               estilos.css
+¦   ¦               
+¦   +---templates
+¦   ¦   ¦   base.html
+¦   ¦   ¦   index.html
+¦   ¦   ¦   
+¦   ¦   +---habitos
+¦   ¦   ¦       crear_habito.html
+¦   ¦   ¦       crear_icono.html
+¦   ¦   ¦       crear_recordatorio.html
+¦   ¦   ¦       detalle_habito.html
+¦   ¦   ¦       editar_habito.html
+¦   ¦   ¦       editar_recordatorio.html
+¦   ¦   ¦       eliminar_habito.html
+¦   ¦   ¦       eliminar_recordatorio.html
+¦   ¦   ¦       formulario.html
+¦   ¦   ¦       lista_habitos.html
+¦   ¦   ¦       ver_recordatorio.html
+¦   ¦   ¦       
+¦   ¦   +---registration
+¦   ¦           cambiar_contrasena.html
+¦   ¦           editar_perfil.html
+¦   ¦           login.html
+¦   ¦           registro_usuario.html
+¦   ¦           
+¦   +---__pycache__
+¦           admin.cpython-310.pyc
+¦           apps.cpython-310.pyc
+¦           forms.cpython-310.pyc
+¦           middleware.cpython-310.pyc
+¦           models.cpython-310.pyc
+¦           urls.cpython-310.pyc
+¦           views.cpython-310.pyc
+¦           __init__.cpython-310.pyc
+¦           
++---habitos_proyecto
+¦   ¦   asgi.py
+¦   ¦   settings.py
+¦   ¦   urls.py
+¦   ¦   wsgi.py
+¦   ¦   __init__.py
+¦   ¦   
+¦   +---__pycache__
+¦           settings.cpython-310.pyc
+¦           urls.cpython-310.pyc
+¦           wsgi.cpython-310.pyc
+¦           __init__.cpython-310.pyc
+¦           
++---iconos
+¦       chocola.jpg
+¦       
++---media
+    +---iconos
+            chocola.jpg
+            chocola_YzYpeIq.jpg
+            ekko_icon.jpg
+            sakura.jpg
+            trigo.jpg
+            trigo_3AwmMj3.jpg
+            vanilla.jpg
+            vanilla_n1qxdbD.jpg
+            

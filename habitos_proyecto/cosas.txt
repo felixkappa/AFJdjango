@@ -1,0 +1,21 @@
+usuario: root
+contraseña: contra123
+            root
+
+usuario: felix 
+contraseña: contra123
+
+usuario: prueba
+contraseña: contra123
+
+celery -A habitos_proyecto worker -l info -P solo
+
+celery -A habitos_proyecto beat -l info
+
+este es solo para crearlo
+docker run -d --name redis-server -p 6379:6379 redis
+
+
+docker start redis-server
+
+docker-compose up
